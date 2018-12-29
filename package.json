@@ -1,0 +1,27 @@
+{
+  "name": "jhods16-proxy",
+  "version": "1.0.0",
+  "description": "> Project description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChampsOfTheSun/jhods16-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChampsOfTheSun/jhods16-proxy/issues"
+  },
+  "homepage": "https://github.com/ChampsOfTheSun/jhods16-proxy#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
