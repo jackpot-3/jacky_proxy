@@ -1,0 +1,8 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"Jacky-2.local","pid":96001,"time":"2019-01-20T21:02:51.119Z","msg":"Using New Relic for Node.js. Agent version: 5.1.0; Node version: v10.13.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Jacky-2.local","pid":96001,"time":"2019-01-20T21:02:51.506Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Jacky-2.local","pid":96001,"time":"2019-01-20T21:02:53.411Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BJx52M8sS1jHACHgmw3xedVcROIEAAgBAAAjHQECAA3xedQDAAU1LjEuMAANSmFja3ktMi5sb2NhbAAFUHJveHk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Jacky-2.local","pid":96001,"time":"2019-01-20T21:02:53.412Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2220187/applications/233929172","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Jacky-2.local","pid":96196,"time":"2019-01-20T21:06:21.706Z","msg":"Using New Relic for Node.js. Agent version: 5.1.0; Node version: v10.13.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Jacky-2.local","pid":96196,"time":"2019-01-20T21:06:22.001Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Jacky-2.local","pid":96196,"time":"2019-01-20T21:06:23.910Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BMY9s-YsS5kOACHgmw3xedVcROL0AAgBAAAjHQECAA3xedQDAAU1LjEuMAANSmFja3ktMi5sb2NhbAAFUHJveHk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Jacky-2.local","pid":96196,"time":"2019-01-20T21:06:23.910Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2220187/applications/233929172","component":"collector_api"}
